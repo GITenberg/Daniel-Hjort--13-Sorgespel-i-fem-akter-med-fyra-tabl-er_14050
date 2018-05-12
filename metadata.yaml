@@ -1,0 +1,28 @@
+_repo: Daniel-Hjort--13-Sorgespel-i-fem-akter-med-fyra-tabl-er_14050
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wecksell, J. J. (Josef Julius)
+    alias: Wecksell, Josef Julius
+    birthdate: 1838
+    deathdate: 1907
+    gutenberg_agent_id: '5347'
+    url: http://www.gutenberg.org/2009/agents/5347
+    wikipedia: http://fi.wikipedia.org/wiki/Josef_Julius_Wecksell
+description: ''
+gutenberg_issued: '2004-11-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14050'
+language: sv
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Hjort, Daniel Theodori, -1615 -- Drama'
+title: "Daniel Hjort\r\nSorgespel i fem akter med fyra tablåer"
+url: http://www.gutenberg.org/ebooks/14050
